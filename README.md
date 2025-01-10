@@ -1,3 +1,3 @@
-# Game-Thingthingthong
+# ColorGame
 
 #Post game things here
